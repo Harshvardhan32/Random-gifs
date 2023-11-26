@@ -1,4 +1,4 @@
- Random Gifs
+# Random Gifs
 
 Welcome to Random Gifs, your go-to source for endless entertainment with a simple click! GifGen is a random GIF generator that brings joy and laughter to your screen by delivering a diverse array of animated GIFs. Whether you need a quick break, a mood boost, or just some fun content to share, GifGen has you covered.
 
